@@ -22,24 +22,23 @@ const Home = () => {
             <div className="container home-page">
                 <div className="text-zone">
                     <h1>
-                        Hi
-                        {/* <span className={letterClass}>H</span>
-                        <span className={`${letterClass} _12`}>i,</span> */}
+                        <span className={letterClass}>H</span>
+                        <span className={`${letterClass} _12`}>i,</span>
                         <br />
-                        {/* <span className={`${letterClass} _13`}>I</span>
-                        <span className={`${letterClass} _14`}>'m</span> */}
+                        <span className={`${letterClass} _13`}>I</span>
+                        <span className={`${letterClass} _14`}>'m</span>
                     <img src={LogoTitle} alt="web developer name" />
-                    {/* <AnimatedLetters 
+                    <AnimatedLetters 
                     letterClass={letterClass} 
                     stringArray={nameArray} 
-                    idx={15} */}
+                    idx={15}
                     />
                     <br />
-                    {/* <AnimatedLetters 
+                    <AnimatedLetters 
                     letterClass={letterClass} 
                     stringArray={jobArray} 
                     idx={22}
-                    /> */}
+                    />
                     </h1>
                     <h2>Fullstack Developer / JavaScript / Drummer</h2>
                     <Link to="/contact" className='flat-button'>CONTACT ME</Link>
