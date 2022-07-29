@@ -26,18 +26,13 @@ const About = () => {
                     idx={15} />
                 </h1>
                 <p>
-            I'm very ambitious front-end developer looking for a role in
-            established IT company with the opportunity to work with the latest
-            technologies on challenging and diverse projects.
+                Full-stack web developer with an innate ability to learn new technologies and languages quickly, strong practical experience, and an eagerness to take on new responsibilities. 
           </p>
           <p align="LEFT">
-            I'm quietly confident, naturally curious, and perpetually working on
-            improving my chops one design problem at a time.
+          Recently earned a web development certificate from the Georgia Institute of Technology with newly developed skills in JavaScript, CSS, and the MERN stack. I am an innovative problem solver and passionate about developing apps, with a focus on mobile-first design and development.
           </p>
           <p>
-            If I need to define myself in one sentence that would be a family
-            person, father of a beautiful daughter, a sports fanatic,
-            photography enthusiast, and tech-obsessed!!!
+          My background as a seasoned and resourceful non-profit Executive Director, high-level marketer, and project manager gives me a unique approach as a team leader and motivator.
           </p>
             </div>
 
