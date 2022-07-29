@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react';
+import Loader from 'react-loaders';
 import { Link } from 'react-router-dom';
 import LogoTitle from '../../assets/images/logo-m.png';
 import AnimatedLetters from '../AnimatedLetters';
@@ -65,6 +66,7 @@ const Home = () => {
                 </div>
                 <Logo></Logo>
             </div>
+            <Loader type="pacman" />
         </>
     )
 }
