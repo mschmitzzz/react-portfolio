@@ -1,0 +1,28 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/geek-connect/geek.png",
+            "title": "Geek Connect",
+            "description": "A social platform developed for geeks by geeks",
+            "technologies": "Handlebars.js, Express.js, MySQL",
+            "url": "https://geek-connect-22.herokuapp.com/",
+            "github": "https://github.com/mschmitzzz/geek-connect"
+        },
+        {
+            "cover": "/portfolio/wildlife-census/wildlife.png",
+            "title": "Wildlife Census",
+            "description": "Find endangered species near you",
+            "technologies": "APIs",
+            "url": "https://mschmitzzz.github.io/Wildlife-Census/",
+            "github": "https://github.com/mschmitzzz/Wildlife-Census"
+        },
+        {
+            "cover": "/portfolio/funk-quiz/quiz.png",
+            "title": "Funk Quiz",
+            "description": "How well do you know your funk?",
+            "technologies": "APIs",
+            "url": "https://mschmitzzz.github.io/hw-4-Web-APIs-Quiz/",
+            "github": "https://github.com/mschmitzzz/hw-4-Web-APIs-Quiz"
+        }
+    ]
+}
