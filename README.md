@@ -16,15 +16,6 @@ This is my updated portfolio created using React
 
 [Deployed Link](https://mschmitzzz.github.io/react-portfolio/)
 
-## Installation
-
-This application can be run in the browser by visiting the Heroku link above. To run this application offline, you can visit the Heroku deployed link and click the `Install!` button in the top left.
-
-## Usage
-
-To use the Team Profile Builder, run the following command in your project folder and answer the questions when prompted:
-`node index.js`
-
 ## License
 
 MIT License
