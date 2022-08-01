@@ -1,0 +1,26 @@
+.image-container {
+    background-image: url("../../../assets/images/prof-pic.png");
+    width: 750px;
+    height: 507px;
+    // box-shadow: 0 0 25px 25px #022c43 inset;
+    z-index: 0;
+    position: absolute;
+    top: 10%;
+    right: 15%;
+    bottom: 0;
+    left: auto;
+    margin: auto;
+}
+
+    // .prof-pic {
+    //   position: absolute;
+    //   top: auto;
+    //   right: auto;
+    //   bottom: auto;
+    //   left: 0;
+    //   margin: auto;
+    //   width: 100%;
+    //   z-index: 1;
+    //   box-shadow: 0 0 20px 20px #ffd700 inset;
+    // }
+  
