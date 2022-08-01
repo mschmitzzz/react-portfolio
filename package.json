@@ -2,6 +2,7 @@
   "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://mschmitzzz.github.io/react-portfolio/",
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
     "@fortawesome/free-brands-svg-icons": "^6.1.2",
@@ -47,7 +48,6 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ],
-    "homepage": "https://mschmitzzz.github.io/react-portfolio/"
+    ]
   }
 }
