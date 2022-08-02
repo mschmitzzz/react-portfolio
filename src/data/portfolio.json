@@ -20,9 +20,33 @@
             "cover": "/react-portfolio/portfolio/funk-quiz/quiz.png",
             "title": "Funk Quiz",
             "description": "How well do you know your funk?",
-            "technologies": "APIs",
+            "technologies": "Javascript, HTML, CSS, Web APIs",
             "url": "https://mschmitzzz.github.io/hw-4-Web-APIs-Quiz/",
             "github": "https://github.com/mschmitzzz/hw-4-Web-APIs-Quiz"
+        },
+        {
+            "cover": "/react-portfolio/portfolio/jate/jate.png",
+            "title": "Just Another Text Editor (J.A.T.E.)",
+            "description": "A single-page text editor Progressive Web Application that runs in the browser",
+            "technologies": "PWA, Babel, Express.js, WebPack",
+            "url": "https://obscure-citadel-67485.herokuapp.com/",
+            "github": "https://github.com/mschmitzzz/hw-19-text-editor"
+        },
+        {
+            "cover": "/react-portfolio/portfolio/weather/weather.png",
+            "title": "Weather Dashboard",
+            "description": "A weather dashboard featuring dynamically generated HTML and CSS and using the OpenWeather One Call API",
+            "technologies": "Javascript, CSS, HTML, 3rd party APIs",
+            "url": "https://mschmitzzz.github.io/hw-6-weather-dashboard/",
+            "github": "https://github.com/mschmitzzz/hw-6-weather-dashboard"
+        },
+        {
+            "cover": "/react-portfolio/portfolio/note-taker/note-taker.png",
+            "title": "Express Note Taker",
+            "description": "A note taker application that can be used to write and save notes",
+            "technologies": "Express.js, Javascript, CSS, HTML",
+            "url": "https://vast-springs-20806.herokuapp.com/",
+            "github": "https://github.com/mschmitzzz/hw-11-express-note-taker"
         }
     ]
 }
